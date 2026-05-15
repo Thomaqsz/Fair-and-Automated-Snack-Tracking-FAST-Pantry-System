@@ -40,7 +40,7 @@ Manual logbooks are often prone to errors, paper waste, and difficulties in enfo
    $dbname = "fast_pantry_db";
 
 ## 👥 Contributors
-De Gamo, Christian
-Merto, Haniel Kristen
-Moreno, Russell
+* De Gamo, Christian
+* Merto, Haniel Kristen
+* Moreno, Russell
 
